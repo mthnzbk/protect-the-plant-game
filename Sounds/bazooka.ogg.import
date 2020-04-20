@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bazooka.ogg-fa158ebb855a120e4b47ec3649657bcf.oggstr"
+
+[deps]
+
+source_file="res://Sounds/bazooka.ogg"
+dest_files=[ "res://.import/bazooka.ogg-fa158ebb855a120e4b47ec3649657bcf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

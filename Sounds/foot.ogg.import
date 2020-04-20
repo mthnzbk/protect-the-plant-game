@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/foot.ogg-3a9a4597ddd4c42e0ac170f79cb9ab9c.oggstr"
+
+[deps]
+
+source_file="res://Sounds/foot.ogg"
+dest_files=[ "res://.import/foot.ogg-3a9a4597ddd4c42e0ac170f79cb9ab9c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

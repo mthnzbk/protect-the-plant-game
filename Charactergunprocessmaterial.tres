@@ -1,0 +1,10 @@
+[gd_resource type="ParticlesMaterial" format=2]
+
+[resource]
+flag_disable_z = true
+initial_velocity = 30.0
+angular_velocity = -366.1
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+linear_accel = 35.0
+tangential_accel = 44.07
